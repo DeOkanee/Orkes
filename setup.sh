@@ -11,7 +11,7 @@ apt install nano -y
 apt install ruby -y
 gem install lolcat
 apt install git curl openssh openssl openssl-tool -y
-figlet -f big FINISHED !!! | lolcat
+figlet -f big ORKES !!! | lolcat
 echo ""
 echo ""
 echo " INSTAGRAM ME :) " | lolcat
