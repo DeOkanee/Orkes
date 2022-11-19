@@ -26,7 +26,7 @@
 
 * `apt install git`
 
-* `git clone https://github.com/rixon-cochi/Lucifer.git`
+* `git clone https://github.com/DeOkanee/Orkes.git`
 
 * `ls`
 
