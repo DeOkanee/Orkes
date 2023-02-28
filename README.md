@@ -9,7 +9,7 @@
 # De Oka
 
 [![Github](https://img.shields.io/badge/Github-DE--OKA-green?style=for-the-badge&logo=github)](https://deokanee.github.io/Profile/)
-[![Instagram](https://img.shields.io/badge/instagram-DE--OKA-red?style=for-the-badge&logo=instagram)](https://instagram.com/okaneebeee?igshid=YmMyMTA2M2Y=)
+[![Instagram](https://img.shields.io/badge/blogger-DE--OKA-red?style=for-the-badge&logo=blogger)](https://instagram.com/okaneebeee?igshid=YmMyMTA2M2Y=)
 
 <br>
 <p align="center">
